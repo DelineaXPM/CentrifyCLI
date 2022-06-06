@@ -1,7 +1,7 @@
 # centrifycli
 Centrify REST API Command Line Tool
 
-Centrify CLI (ccli), built with .net Core 2.2, provides a command line interface to the Centrify REST API. Features include:
+Centrify CLI (ccli), built with .Net 6.0, provides a command line interface to the Centrify REST API. Features include:
 * List and search of Centrify API endpoints.
 * JSON Schemas of Centrify API endpoints.
 * Handling of Authentication through OAuth or user/password.
@@ -13,10 +13,9 @@ For more information, see [Centrify CLI: Centrify Command Line Interface](https:
 
 ## Building
 
-ccli builds from either the dotnet command line:
+ccli builds from either the dotnet command line
 * dotnet build
-
-or from Visual Studio 2019.  Previous versions may not be able to resolve all dotnet version references.
+or from Visual Studio 2022.  Previous versions may not be able to resolve all dotnet version references.
 
 ## Install
 
