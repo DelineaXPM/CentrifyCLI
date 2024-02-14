@@ -1,4 +1,11 @@
 # centrifycli
+
+# End of Life
+
+> ***NOTE***
+> This repo is no longer supported.
+> This is still available under the licensing terms, but is not being actively developed or updated any further. 
+
 Centrify REST API Command Line Tool
 
 Centrify CLI (ccli), built with .Net 6.0, provides a command line interface to the Centrify REST API. Features include:
